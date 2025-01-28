@@ -2,7 +2,7 @@
 
 ==============================================
 READ UNTIL: 
-Complex Property Types: Object, Function
+JavaScript's class and Object
 ==============================================
 
 
@@ -12,7 +12,7 @@ Complex Property Types: Object, Function
 3. Object的高级应用 (Advanced Object Applications)
 4. 构造函数 (Constructor Functions)
 5. 原型继承 (Prototype Inheritance)
-6. 类语法 (Class Syntax)
+6. 类语法 (Class Syntax)`
 
 ## 目录 (Table of Contents) 📑
 - [1. Objects基础概念](#1-objects基础概念-basic-object-concepts)
