@@ -2,7 +2,7 @@
 
 ==============================================
 READ UNTIL: 
-JavaScript's class and Object
+Complex Property Types: Object, Function
 ==============================================
 
 
