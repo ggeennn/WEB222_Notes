@@ -1,8 +1,4 @@
 # WEB222 - Week 5 - HTML Fundamentals 🌐
-==================================
-READ UNTIL:
-HTML Document
-==================================
 
 ## 学习路径图 (Learning Path) 📋
 1. 开发环境搭建 (Development Environment Setup)
@@ -142,8 +138,8 @@ npx serve
 
 ### 主要文档区块 (Major Document Sections)
 - `<html>`：根元素
-- `<head>`：文档头部
-- `<body>`：文档主体
+- `<head>`：文档头部, 包含元数据和外部资源
+- `<body>`：文档主体, 包含文档内容
 
 ### 内容区块 (Content Sections) 
 - `<header>`：页眉
